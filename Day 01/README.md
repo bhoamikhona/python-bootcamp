@@ -31,7 +31,7 @@
 
 [Demo Link](https://replit.com/@bhoamikhona/band-name-generator?v=1)
 
-![band-name-generator-demo-gif](https://user-images.githubusercontent.com/50435319/181145787-104cbe11-98a9-4435-b439-15c6c44ad43b.gif)
+![band-name-generator-gif](https://user-images.githubusercontent.com/50435319/217743063-b36f47e4-6edc-4744-bdcf-2bc815b61c17.gif)
 
 ## Authors
 
