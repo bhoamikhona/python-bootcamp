@@ -6,6 +6,8 @@
 
 [Day 01](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2001) - Band Name Generator
 
+[Day 02](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2002) - Tip Calculator
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
