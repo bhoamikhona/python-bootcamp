@@ -4,7 +4,7 @@
 
 ## Beginner
 
-[Day 01](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2001) - Working with Variables in Python to Manage Data
+[Day 01](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2001) - Band Name Generator
 
 ## Authors
 
