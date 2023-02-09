@@ -1,6 +1,6 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 
-![100 DAYS OF CODE](https://user-images.githubusercontent.com/50435319/217754527-834cf8aa-74e1-48e2-9689-add28845bd5d.png)
+![100 DAYS OF CODE](https://user-images.githubusercontent.com/50435319/217755045-40b8d037-aad7-41f1-82fa-611493b95b19.png)
 
 ## Beginner
 
