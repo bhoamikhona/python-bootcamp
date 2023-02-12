@@ -10,6 +10,8 @@
 
 [Day 03](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2003) - Treasure Island
 
+[Day 04](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2004) - Rock, Paper, Scissors
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
