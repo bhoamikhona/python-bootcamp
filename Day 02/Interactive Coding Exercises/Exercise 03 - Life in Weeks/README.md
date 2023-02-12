@@ -14,17 +14,21 @@ You have x days, y weeks, and z months left.
 
 Where x, y and z are replaced with the actual calculated numbers.
 
-**Warning** your output should match the Example Output format exactly, even the positions of the commas and full stops.
+**Warning:** Your output should match the Example Output format exactly, even the positions of the commas and full stops.
 
 ## Example Input
 
-![i](https://user-images.githubusercontent.com/50435319/217780003-bb4f83a4-db49-4501-9b29-6b8713f3ff76.PNG)
+```
+56
+```
 
 ## Example Output
 
-![o](https://user-images.githubusercontent.com/50435319/217780004-d1a70147-04f2-4d46-a673-51ee711f7dda.PNG)
+```
+You have 12410 days, 1768 weeks, and 408 months left.
+```
 
-e.g. When you hit run, this is what should happen:
+e.g. When you hit **run**, this is what should happen:
 
 ![2 3 life in weeks](https://user-images.githubusercontent.com/50435319/217780008-accd364b-b7b5-44be-878b-75f82083cf57.gif)
 

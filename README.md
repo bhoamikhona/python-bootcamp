@@ -8,6 +8,8 @@
 
 [Day 02](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2002) - Tip Calculator
 
+[Day 03](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2003) - Treasure Island
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)

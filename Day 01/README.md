@@ -11,7 +11,7 @@
   - Print Function: `print("Hello, World!")`
 - String
 - Using [Stackoverflow](https://stackoverflow.com/)
-- Single Quotes, Double Quotes, Triple Quotes
+- Single Quotes, Double Quotes
 - New Line: `\n`
 - String Concatenation
 - Importance of white space and indentation in Python

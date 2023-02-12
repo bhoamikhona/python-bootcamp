@@ -10,17 +10,23 @@ The BMI is calculated by dividing a person's weight (in kg) by the square of the
 
 ![BMI+Image+Small](https://user-images.githubusercontent.com/50435319/217773410-7200d4df-a292-4a9e-b700-5475f75677fc.jpeg)
 
-**Warning** you should convert the result to a whole number.
+**Warning:** You should convert the result to a whole number.
 
 ## Example Input
 
-![i](https://user-images.githubusercontent.com/50435319/217773383-88a1dd84-b43b-4b40-86f4-bf1f5e39c405.PNG)
+```
+weight = 80
+height = 1.75
+```
 
 ## Example Output
 
-![o](https://user-images.githubusercontent.com/50435319/217773386-537dd010-703b-4b7d-ab2d-c17611ac8ed8.PNG)
+```
+80 ÷ (1.75 x 1.75) = 26.122448979591837
+26
+```
 
-e.g. When you hit run, this is what should happen:
+e.g. When you hit **run**, this is what should happen:
 
 ![2 2  bmi calc](https://user-images.githubusercontent.com/50435319/217773389-19135b26-9095-45db-bdaa-c7acae8d079c.gif)
 
