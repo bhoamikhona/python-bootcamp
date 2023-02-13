@@ -6,7 +6,21 @@
 
 ## Lessons Learned
 
--
+- Randomisation
+- Random Module
+  - `random.randint(a, b)`
+  - `random.random()`
+- Modules
+- Data Structures
+  - Lists
+    - List Indexes and Negative Indexes
+    - Appending Items to Lists: `list.append(item)`
+    - Extending Lists: `list1.extend(list2)`
+- Converting String to List: `string.split(",")`
+- Understanding Offset
+- Errors:
+  - IndexError: list index out of range
+- Nested Lists
 
 ## Demo
 
