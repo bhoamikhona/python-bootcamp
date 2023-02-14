@@ -12,6 +12,8 @@
 
 [Day 04](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2004) - Rock, Paper, Scissors
 
+[Day 05](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2005) - Password Generator
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
