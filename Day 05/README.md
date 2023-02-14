@@ -12,6 +12,7 @@
 - Minimum value item in a list: `min()`
 - Range Function: `range()`
 - For Loops using Range Operator
+- Shuffling items in a list: `random.shuffle(list)`
 
 ## Demo
 
