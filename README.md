@@ -14,6 +14,8 @@
 
 [Day 05](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2005) - Password Generator
 
+[Day 06](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2006) - Reeborg's World Maze
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
