@@ -18,6 +18,8 @@
 
 [Day 07](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2007) - Hangman
 
+[Day 08](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2008) - Caesar Cipher
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
