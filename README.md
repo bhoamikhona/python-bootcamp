@@ -16,6 +16,8 @@
 
 [Day 06](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2006) - Reeborg's World Maze
 
+[Day 07](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2007) - Hangman
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
