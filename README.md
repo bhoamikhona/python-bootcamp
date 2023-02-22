@@ -22,6 +22,8 @@
 
 [Day 09](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2009) - Silent Auction
 
+[Day 10](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2010) - Calculator
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
