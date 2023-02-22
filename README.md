@@ -20,6 +20,8 @@
 
 [Day 08](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2008) - Caesar Cipher
 
+[Day 09](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2009) - Silent Auction
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
