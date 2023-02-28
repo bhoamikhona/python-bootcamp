@@ -24,6 +24,8 @@
 
 [Day 10](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2010) - Calculator
 
+[Day 11](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2011) - Blackjack (Capstone Project)
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
