@@ -28,6 +28,12 @@
 - Cards are not removed from the deck as they are drawn.
 - The computer is the dealer.
 
+## Lessons Learned
+
+- `list1.extend(list2)` - The `extend()` method adds the specified list elements (or any iterable) to the end of the current list.
+- `list1 += list2` - Is a shorthand way for writing the python `list1.extend(list2)` function. Both ways will give the same result.
+- `list.remove(item)` - The `remove()` method removes the first occurence of the element with the specified value.
+
 ## Demo
 
 [Demo Link](https://replit.com/@bhoamikhona/blackjack?v=1)

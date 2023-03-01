@@ -26,6 +26,8 @@
 
 [Day 11](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2011) - Blackjack (Capstone Project)
 
+[Day 12](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2012) - Number Guessing Game
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
