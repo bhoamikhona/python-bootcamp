@@ -30,6 +30,8 @@
 
 [Day 13](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2013) - Debugging: How to Find and Fix Errors in your Code
 
+[Day 14](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2014) - Higher Lower Game
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
