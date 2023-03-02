@@ -28,6 +28,8 @@
 
 [Day 12](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2012) - Number Guessing Game
 
+[Day 13](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2012) - Debugging: How to Find and Fix Errors in your Code
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
