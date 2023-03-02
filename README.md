@@ -28,7 +28,7 @@
 
 [Day 12](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2012) - Number Guessing Game
 
-[Day 13](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2012) - Debugging: How to Find and Fix Errors in your Code
+[Day 13](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2013) - Debugging: How to Find and Fix Errors in your Code
 
 ## Authors
 
