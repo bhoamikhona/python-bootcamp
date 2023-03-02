@@ -2,7 +2,7 @@
 
 **About:** Today is all about learning the tips, tricks, and techniques to find bugs and how to get rid of them from code.
 
-![debug](https://user-images.githubusercontent.com/50435319/222471835-80177081-659c-4747-ab11-03da392712f0.png)
+![debug](https://user-images.githubusercontent.com/50435319/222472406-9044df4e-6e92-40c8-8100-eac5a872dfbe.png)
 
 ## Lessons Learned
 
