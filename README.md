@@ -32,6 +32,10 @@
 
 [Day 14](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2014) - Higher Lower Game
 
+## Intermediate
+
+[Day 15](https://github.com/bhoamikhona/python-bootcamp/tree/main/Day%2015) - Coffee Machine
+
 ## Authors
 
 - [@bhoamikhona](https://github.com/bhoamikhona)
